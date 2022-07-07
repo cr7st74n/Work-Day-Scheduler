@@ -69,3 +69,12 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+/* .container {
+  background-color: #ff6961;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction:row;
+  height: 100%;
+  width: 100%;
+} */
